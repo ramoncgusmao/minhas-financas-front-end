@@ -40,7 +40,7 @@ cadastrar = () => {
                                     
   
                                         <button onClick={ this.entrar}  className="btn btn-success">Entrar</button>
-                                        <button onClick={this.cadastrar} className="btn btn-danger">Cadastrar</button>
+                                        <button onClick={ this.cadastrar } className="btn btn-danger">Cadastrar</button>
                                     </fieldset>
                                 </div>
                             </div>
